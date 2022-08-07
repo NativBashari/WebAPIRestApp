@@ -1,0 +1,17 @@
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Contract.dll
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Entities.dll
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Contract.pdb
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\bin\Debug\net6.0\Entities.pdb
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\nativ\Desktop\WebApi\WebApiRest\Repository\obj\Debug\net6.0\ref\Repository.dll
