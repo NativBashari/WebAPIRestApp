@@ -2,6 +2,7 @@
 ## Explanation of the project:
 Developing an ASP .Net Core WebAPI to serve the client project(MVC app). 
 this project manage the data for a commercial company(Employees, Salaries, Positions, Departments), by get requests from client side, process them and take care of them  ,and send response. 
+The client side repository: https://github.com/NativBashari/AspNetCoreMvc-App
 ## About code design:
 As you can see, my project is devide like this:
 1. WebAPIRest - this is the main project, it contains an API controller for each entity with all opertions(CRUD).
