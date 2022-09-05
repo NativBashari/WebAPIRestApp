@@ -9,7 +9,7 @@ this project manage the data for a commercial company(Employees, Salaries, Posit
 
 ## How to run the project?
 1. Open Visual Studio 2022.
-2. Open the PetShop file.
-3. A database (SQLServer) is used and we need to adapt it to our local server, The definition of the database server is found in the appsettings.Json file in the PetShop.Client API where we will have to change to our local server in the ConnectionString.
+2. Open the WebAPIRestApp file.
+3. A database (SQLServer) is used and we need to adapt it to our local server, The definition of the database server is found in the APIDbContext.cs file in the Entities dll project where we will have to change to our local server in the ConnectionString(found in the OnConfigure method).
 4. Run the project (Ctrl + f5).
 
